@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+## Hi there, I'm Minasie Shibeshi - [minasploit][website] 👋
 
-You can use the [editor on GitHub](https://github.com/minasploit/minasploit.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+- 📃I write <code>&lt;code/&gt;</code>.
+- 🔭 I tend to solve problems fast, if given a goal.
+- 🌱 I always try to better myself.
+- 📖 I love reading fictional books.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Connect with me:
 
-### Markdown
+[<img align="left" alt="minasploit.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="minasploit | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="minasploit | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="minasploit | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<br/>
 
-```markdown
-Syntax highlighted code block
+### Tools:
 
-# Header 1
-## Header 2
-### Header 3
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/visual-studio-569577.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/intellij-idea-569199.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
-- Bulleted
-- List
+<br/>
 
-1. Numbered
-2. List
+### Languages and Frameworks:
 
-**Bold** and _Italic_ and `Code` text
+<img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/512px-.NET_Core_Logo.svg.png" />
+<img align="left" alt="Angular" width="26px" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/angular-js-512.png" />
+<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
-[Link](url) and ![Image](src)
-```
+<br />
+<br />
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/minasploit/minasploit.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[website]: https://example.com
+[twitter]: https://twitter.com/minasploit
+[instagram]: https://instagram.com/minasploit
+[linkedin]: https://linkedin.com/in/minasie-shibeshi
